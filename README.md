@@ -33,7 +33,7 @@ Dalam program ini, bank dapat menyimpan maksimal 10 nasabah. Setiap nasabah dapa
 
 ## 📸 Hasil Output
 
-![Hasil Output Program](hasil.png)
+![Hasil Output Program](hasiloutput.png)
 
 ```
 
