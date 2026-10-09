@@ -40,8 +40,8 @@ Untuk menambahkan gambar hasil program, simpan tangkapan layar terminal dengan n
 Setelah gambar berhasil diunggah, gunakan Markdown berikut:
 
 ```markdown
-![Hasil Output Simple Banking System](![Uploading Screenshot (79).png…]()
-)
+![Uploading Screenshot (79).png…]()
+
 ```
 
 ## 🧩 Struktur Class
