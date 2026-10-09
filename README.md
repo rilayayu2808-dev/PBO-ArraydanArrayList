@@ -33,14 +33,7 @@ Dalam program ini, bank dapat menyimpan maksimal 10 nasabah. Setiap nasabah dapa
 
 ## 📸 Hasil Output
 
-Program menampilkan daftar nasabah, saldo awal, riwayat transaksi, saldo akhir, dan jumlah nasabah yang terdaftar.
-
-Untuk menambahkan gambar hasil program, simpan tangkapan layar terminal dengan nama `hasil.png`, kemudian unggah ke repository GitHub yang sama.
-
-Setelah gambar berhasil diunggah, gunakan Markdown berikut:
-
-```markdown
-![Uploading Screenshot (79).png…]()
+![Hasil Output Program](hasil.png)
 
 ```
 
